@@ -90,14 +90,6 @@ assets/         icon
   Windows reuses PIDs, and without that check "End process tree" could reach
   processes that aren't really children.
 
-## Roadmap
-
-- [ ] List open handles and loaded modules per process
-- [ ] Adjustable refresh rate
-- [ ] Type anywhere to search
-- [ ] Per-process icons
-- [ ] Remember window size and column widths
-
 ## License
 
 [MIT](LICENSE)
